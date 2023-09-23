@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.dcont{
+   width:95%;
+   margin: auto;
+}
+.drow{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dcol{
+    width:50%;
+    padding: 10px;
+}
+.dh{
+    color:darkslategray;
+    font-size: 35px;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+.dp{
+  font-size: 20px;
+  color: darkgray;
+  padding-bottom: 30px;
+}
+.rowb{
+    display: flex;
+    justify-content: space-around;
+}
+.imgc{
+    max-width: 50%;
+    margin: auto;
+    height: 400px;
+}
